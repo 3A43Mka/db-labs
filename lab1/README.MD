@@ -8,6 +8,10 @@
 
 ![ER digram](er-diagram.png)
 
+## Сутності БД
+
+![DB_structure](dbstructure.png)
+
 ## Структура нормалізованої бази даних з назвами таблиць та зв’язками між ними
 
 ![Relations](relations.png)
